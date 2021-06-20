@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #EEE;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    max-width: 1000px;
+    background-color: #E4F9f5;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.image{
+    width: 100px;
+    height: 120p-x;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+    
+}
+h1, h2, h3, h4, h5,h6{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+
+}
+.header-contact a{
+    text-decoration-line: none;
+    color: teal;
+    font-weight: bold;
+    
+
+}
+
+.header-contact a:hover{
+    text-decoration-line: underline;
+    background-color: tomato;
+
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+.pertunal-content{
+
+
+}
+.content-1{
+    margin-bottom: 30px;
+
+
+}
+
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+width: 70%;
+float: left;
+
+
+}
+
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.edu-left{
+    width: 45%;
+    float: left;
+    
+    
+}
+.edu-right{
+    width: 45%;
+    float: right;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.footer p{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+}
